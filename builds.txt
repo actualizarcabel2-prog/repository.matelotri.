@@ -1,8 +1,0 @@
-[COLOR gold]Matelotri[/COLOR] [COLOR white]Arctic Zephyr Reloaded[/COLOR]
-version="1.0.0"
-url="https://url-a-la-build/matelotri_build.zip"
-minor="http://"
-gui="http://"
-icon="http://"
-theme="Arctic Zephyr - Reloaded"
-info="Build de Matelotri con skin preconfigurado Arctic Zephyr - Reloaded"
